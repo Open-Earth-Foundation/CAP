@@ -1,0 +1,79 @@
+[
+    {
+        "city_name": "Rio de Janeiro",
+        "region": "RJ",
+        "action_type": "Mitigation",
+        "action_id": "2012",
+        "action_name": "Residential Solar Energy",
+        "action_description": "Promote solar panels in households to reduce emissions",
+        "target_year": "2026",
+        "impact_level": "Medium",
+        "estimated_cost": "15000000"
+    },
+    {
+        "city_name": "Rio de Janeiro",
+        "region": "RJ",
+        "action_type": "Adaptation",
+        "action_id": "3010",
+        "action_name": "Mangrove Protection",
+        "action_description": "Restore and protect coastal mangroves to combat erosion",
+        "target_year": "2027",
+        "impact_level": "High",
+        "estimated_cost": "20000000"
+    },
+    {
+        "city_name": "Rio de Janeiro",
+        "region": "RJ",
+        "action_type": "Mitigation",
+        "action_id": "2013",
+        "action_name": "Non-Motorized Transport",
+        "action_description": "Encourage bicycle use through infrastructure development",
+        "target_year": "2029",
+        "impact_level": "Medium",
+        "estimated_cost": "12000000"
+    },
+    {
+        "city_name": "Rio de Janeiro",
+        "region": "RJ",
+        "action_type": "Adaptation",
+        "action_id": "3011",
+        "action_name": "Water Desalination",
+        "action_description": "Implement desalination technology to tackle water scarcity",
+        "target_year": "2031",
+        "impact_level": "High",
+        "estimated_cost": "50000000"
+    },
+    {
+        "city_name": "Rio de Janeiro",
+        "region": "RJ",
+        "action_type": "Mitigation",
+        "action_id": "2014",
+        "action_name": "Industrial Energy Efficiency",
+        "action_description": "Enhance energy efficiency in industrial plants",
+        "target_year": "2027",
+        "impact_level": "Medium",
+        "estimated_cost": "30000000"
+    },
+    {
+        "city_name": "Rio de Janeiro",
+        "region": "RJ",
+        "action_type": "Adaptation",
+        "action_id": "3012",
+        "action_name": "Green Roofs",
+        "action_description": "Promote green roofs to reduce heat and improve insulation",
+        "target_year": "2025",
+        "impact_level": "Low",
+        "estimated_cost": "2000000"
+    },
+    {
+        "city_name": "Rio de Janeiro",
+        "region": "RJ",
+        "action_type": "Mitigation",
+        "action_id": "2015",
+        "action_name": "Sustainable Public Transport",
+        "action_description": "Integrate electric vehicles into the public transport system",
+        "target_year": "2030",
+        "impact_level": "High",
+        "estimated_cost": "45000000"
+    }
+]
