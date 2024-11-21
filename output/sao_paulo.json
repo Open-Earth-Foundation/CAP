@@ -7,11 +7,13 @@
         "action_name": "Electric Transportation",
         "action_description": "Promote the use of electric buses in public transport to reduce carbon emissions",
         "sector": "Transport",
-        "ghg_reduction_potential.energy": "",
-        "ghg_reduction_potential.transportation": "",
-        "ghg_reduction_potential.waste": "",
+        "ghg_reduction_potential.energy": "none",
+        "ghg_reduction_potential.transportation": "40-59%",
+        "ghg_reduction_potential.waste": "none",
         "estimated_cost": "High",
-        "timeline_for_implementation": "5-10 years"
+        "timeline_for_implementation": "5-10 years",
+        "hazard": "",
+        "risk_potential": ""
     },
     {
         "city_name": "São Paulo",
@@ -25,7 +27,9 @@
         "ghg_reduction_potential.transportation": "",
         "ghg_reduction_potential.waste": "",
         "estimated_cost": "Medium",
-        "timeline_for_implementation": "<5 years"
+        "timeline_for_implementation": "<5 years",
+        "hazard": "Flood",
+        "risk_potential": "Medium"
     },
     {
         "city_name": "São Paulo",
@@ -35,11 +39,13 @@
         "action_name": "Solar Energy",
         "action_description": "Install solar panels on government buildings to reduce fossil fuel dependency",
         "sector": "Stationary Energy",
-        "ghg_reduction_potential.energy": "",
-        "ghg_reduction_potential.transportation": "",
-        "ghg_reduction_potential.waste": "",
+        "ghg_reduction_potential.energy": "40-59%",
+        "ghg_reduction_potential.transportation": "none",
+        "ghg_reduction_potential.waste": "none",
         "estimated_cost": "High",
-        "timeline_for_implementation": "5-10 years"
+        "timeline_for_implementation": "5-10 years",
+        "hazard": "",
+        "risk_potential": ""
     },
     {
         "city_name": "São Paulo",
@@ -49,11 +55,13 @@
         "action_name": "Waste Management",
         "action_description": "Implement organic waste recycling in municipal markets to reduce methane emissions",
         "sector": "Waste",
-        "ghg_reduction_potential.energy": "",
-        "ghg_reduction_potential.transportation": "",
-        "ghg_reduction_potential.waste": "",
+        "ghg_reduction_potential.energy": "none",
+        "ghg_reduction_potential.transportation": "none",
+        "ghg_reduction_potential.waste": "20-39%",
         "estimated_cost": "Medium",
-        "timeline_for_implementation": "5-10 years"
+        "timeline_for_implementation": "5-10 years",
+        "hazard": "",
+        "risk_potential": ""
     },
     {
         "city_name": "São Paulo",
@@ -67,7 +75,9 @@
         "ghg_reduction_potential.transportation": "",
         "ghg_reduction_potential.waste": "",
         "estimated_cost": "Medium",
-        "timeline_for_implementation": "5-10 years"
+        "timeline_for_implementation": "5-10 years",
+        "hazard": "Flood",
+        "risk_potential": "Medium"
     },
     {
         "city_name": "São Paulo",
@@ -77,11 +87,13 @@
         "action_name": "Energy Efficiency",
         "action_description": "Replace public lighting with low-energy LED systems",
         "sector": "Stationary Energy",
-        "ghg_reduction_potential.energy": "",
-        "ghg_reduction_potential.transportation": "",
-        "ghg_reduction_potential.waste": "",
+        "ghg_reduction_potential.energy": "20-39%",
+        "ghg_reduction_potential.transportation": "none",
+        "ghg_reduction_potential.waste": "none",
         "estimated_cost": "Low",
-        "timeline_for_implementation": "<5 years"
+        "timeline_for_implementation": "<5 years",
+        "hazard": "",
+        "risk_potential": ""
     },
     {
         "city_name": "São Paulo",
@@ -95,7 +107,9 @@
         "ghg_reduction_potential.transportation": "",
         "ghg_reduction_potential.waste": "",
         "estimated_cost": "High",
-        "timeline_for_implementation": "5-10 years"
+        "timeline_for_implementation": "5-10 years",
+        "hazard": "Sea-level rise",
+        "risk_potential": "High"
     },
     {
         "city_name": "São Paulo",
@@ -105,11 +119,13 @@
         "action_name": "Urban Reforestation",
         "action_description": "Plant trees in urban areas to capture CO₂ and reduce temperature",
         "sector": "AFOLU",
-        "ghg_reduction_potential.energy": "",
-        "ghg_reduction_potential.transportation": "",
-        "ghg_reduction_potential.waste": "",
+        "ghg_reduction_potential.energy": "20-39%",
+        "ghg_reduction_potential.transportation": "none",
+        "ghg_reduction_potential.waste": "none",
         "estimated_cost": "Medium",
-        "timeline_for_implementation": "5-10 years"
+        "timeline_for_implementation": "5-10 years",
+        "hazard": "",
+        "risk_potential": ""
     },
     {
         "city_name": "São Paulo",
@@ -123,7 +139,9 @@
         "ghg_reduction_potential.transportation": "",
         "ghg_reduction_potential.waste": "",
         "estimated_cost": "High",
-        "timeline_for_implementation": ">10 years"
+        "timeline_for_implementation": ">10 years",
+        "hazard": "Landslides",
+        "risk_potential": "High"
     },
     {
         "city_name": "São Paulo",
@@ -133,10 +151,12 @@
         "action_name": "Biofuels",
         "action_description": "Promote the use of biofuels in public transportation to reduce emissions",
         "sector": "Transport",
-        "ghg_reduction_potential.energy": "",
-        "ghg_reduction_potential.transportation": "",
-        "ghg_reduction_potential.waste": "",
+        "ghg_reduction_potential.energy": "20-39%",
+        "ghg_reduction_potential.transportation": "none",
+        "ghg_reduction_potential.waste": "none",
         "estimated_cost": "Medium",
-        "timeline_for_implementation": "5-10 years"
+        "timeline_for_implementation": "5-10 years",
+        "hazard": "",
+        "risk_potential": ""
     }
 ]

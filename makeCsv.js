@@ -406,11 +406,19 @@ const jsonData = [
     }
 ];
 
-const csvData = Papa.unparse(jsonData, {
+const flattenedData = jsonData.map(action => ({
+  ...action,
+  'ghg_reduction_potential.energy': action.ghg_reduction_potential?.energy || '',
+  'ghg_reduction_potential.transportation': action.ghg_reduction_potential?.transportation || '',
+  'ghg_reduction_potential.waste': action.ghg_reduction_potential?.waste || '',
+}));
+
+// Convert JSON to CSV
+const csvData = Papa.unparse(flattenedData, {
   columns: [
     "city_name", "region", "action_type", "action_id", "action_name", "action_description",
     "sector", "ghg_reduction_potential.energy", "ghg_reduction_potential.transportation",
-    "ghg_reduction_potential.waste", "estimated_cost", "timeline_for_implementation"
+    "ghg_reduction_potential.waste", "estimated_cost", "timeline_for_implementation", "hazard", "risk_potential"
   ]
 });
 

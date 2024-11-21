@@ -1,28 +1,28 @@
-city_name,region,action_type,action_id,action_name,action_description,sector,ghg_reduction_potential.energy,ghg_reduction_potential.transportation,ghg_reduction_potential.waste,estimated_cost,timeline_for_implementation
-São Paulo,SP,Mitigation,2001,Electric Transportation,Promote the use of electric buses in public transport to reduce carbon emissions,Transport,,,,High,5-10 years
-São Paulo,SP,Adaptation,3001,Green Infrastructure,Increase urban green areas to improve rainwater absorption and reduce flood risks,,,,,Medium,<5 years
-São Paulo,SP,Mitigation,2002,Solar Energy,Install solar panels on government buildings to reduce fossil fuel dependency,Stationary Energy,,,,High,5-10 years
-São Paulo,SP,Mitigation,2003,Waste Management,Implement organic waste recycling in municipal markets to reduce methane emissions,Waste,,,,Medium,5-10 years
-São Paulo,SP,Adaptation,3002,Drainage Channels,Construct drainage channels to manage seasonal flood risks,,,,,Medium,5-10 years
-São Paulo,SP,Mitigation,2004,Energy Efficiency,Replace public lighting with low-energy LED systems,Stationary Energy,,,,Low,<5 years
-São Paulo,SP,Adaptation,3003,Coastal Fortification,Build barriers to protect coastal areas from erosion and rising sea levels,,,,,High,5-10 years
-São Paulo,SP,Mitigation,2005,Urban Reforestation,Plant trees in urban areas to capture CO₂ and reduce temperature,AFOLU,,,,Medium,5-10 years
-São Paulo,SP,Adaptation,3004,Landslide Monitoring,Install monitoring systems in landslide-prone areas,,,,,High,>10 years
-São Paulo,SP,Mitigation,2006,Biofuels,Promote the use of biofuels in public transportation to reduce emissions,Transport,,,,Medium,5-10 years
-Curitiba,PR,Mitigation,2007,Enhanced Public Transport,Implement rapid low-carbon transport systems,Transport,,,,High,<5 years
-Curitiba,PR,Adaptation,3005,Urban Green Spaces,Expand green spaces to counter urban heat,,,,,Medium,5-10 years
-Curitiba,PR,Mitigation,2008,Wind Energy,Install wind turbines in urban and rural areas,Stationary Energy,,,,High,>10 years
-Curitiba,PR,Adaptation,3006,Rainwater Reuse,Encourage rainwater collection and use in residential areas,,,,,Medium,<5 years
-Curitiba,PR,Mitigation,2009,Plastic Recycling,Increase recycling centers and reduce waste burning,Waste,,,,Medium,5-10 years
-Curitiba,PR,Adaptation,3007,Wetlands Restoration,Protect and restore urban wetlands to enhance climate resilience,,,,,High,>10 years
-Curitiba,PR,Mitigation,2010,Sustainable Buildings,Promote the construction of low-energy buildings,Stationary Energy,,,,High,>10 years
-Curitiba,PR,Adaptation,3008,Early Warning Systems,Develop alert systems for extreme climate events,,,,,Medium,5-10 years
-Curitiba,PR,Mitigation,2011,Urban Agriculture,Encourage urban agriculture to reduce food transportation needs,AFOLU,,,,Low,5-10 years
-Curitiba,PR,Adaptation,3009,Climate Shelters,Establish shelters in vulnerable areas to protect residents during extreme events,,,,,Medium,5-10 years
-Rio de Janeiro,RJ,Mitigation,2012,Residential Solar Energy,Promote solar panels in households to reduce emissions,Stationary Energy,,,,Medium,5-10 years
-Rio de Janeiro,RJ,Adaptation,3010,Mangrove Protection,Restore and protect coastal mangroves to combat erosion,,,,,High,5-10 years
-Rio de Janeiro,RJ,Mitigation,2013,Non-Motorized Transport,Encourage bicycle use through infrastructure development,Transport,,,,Medium,5-10 years
-Rio de Janeiro,RJ,Adaptation,3011,Water Desalination,Implement desalination technology to tackle water scarcity,,,,,High,>10 years
-Rio de Janeiro,RJ,Mitigation,2014,Industrial Energy Efficiency,Enhance energy efficiency in industrial plants,Stationary Energy,,,,Medium,5-10 years
-Rio de Janeiro,RJ,Adaptation,3012,Green Roofs,Promote green roofs to reduce heat and improve insulation,,,,,Low,<5 years
-Rio de Janeiro,RJ,Mitigation,2015,Sustainable Public Transport,Integrate electric vehicles into the public transport system,Transport,,,,High,>10 years
+city_name,region,action_type,action_id,action_name,action_description,sector,ghg_reduction_potential.energy,ghg_reduction_potential.transportation,ghg_reduction_potential.waste,estimated_cost,timeline_for_implementation,hazard,risk_potential
+São Paulo,SP,Mitigation,2001,Electric Transportation,Promote the use of electric buses in public transport to reduce carbon emissions,Transport,none,40-59%,none,High,5-10 years,,
+São Paulo,SP,Adaptation,3001,Green Infrastructure,Increase urban green areas to improve rainwater absorption and reduce flood risks,,,,,Medium,<5 years,Flood,Medium
+São Paulo,SP,Mitigation,2002,Solar Energy,Install solar panels on government buildings to reduce fossil fuel dependency,Stationary Energy,40-59%,none,none,High,5-10 years,,
+São Paulo,SP,Mitigation,2003,Waste Management,Implement organic waste recycling in municipal markets to reduce methane emissions,Waste,none,none,20-39%,Medium,5-10 years,,
+São Paulo,SP,Adaptation,3002,Drainage Channels,Construct drainage channels to manage seasonal flood risks,,,,,Medium,5-10 years,Flood,Medium
+São Paulo,SP,Mitigation,2004,Energy Efficiency,Replace public lighting with low-energy LED systems,Stationary Energy,20-39%,none,none,Low,<5 years,,
+São Paulo,SP,Adaptation,3003,Coastal Fortification,Build barriers to protect coastal areas from erosion and rising sea levels,,,,,High,5-10 years,Sea-level rise,High
+São Paulo,SP,Mitigation,2005,Urban Reforestation,Plant trees in urban areas to capture CO₂ and reduce temperature,AFOLU,20-39%,none,none,Medium,5-10 years,,
+São Paulo,SP,Adaptation,3004,Landslide Monitoring,Install monitoring systems in landslide-prone areas,,,,,High,>10 years,Landslides,High
+São Paulo,SP,Mitigation,2006,Biofuels,Promote the use of biofuels in public transportation to reduce emissions,Transport,20-39%,none,none,Medium,5-10 years,,
+Curitiba,PR,Mitigation,2007,Enhanced Public Transport,Implement rapid low-carbon transport systems,Transport,none,40-59%,none,High,<5 years,,
+Curitiba,PR,Adaptation,3005,Urban Green Spaces,Expand green spaces to counter urban heat,,,,,Medium,5-10 years,Heatwave,Medium
+Curitiba,PR,Mitigation,2008,Wind Energy,Install wind turbines in urban and rural areas,Stationary Energy,40-59%,none,none,High,>10 years,,
+Curitiba,PR,Adaptation,3006,Rainwater Reuse,Encourage rainwater collection and use in residential areas,,,,,Medium,<5 years,Drought,Medium
+Curitiba,PR,Mitigation,2009,Plastic Recycling,Increase recycling centers and reduce waste burning,Waste,none,none,20-39%,Medium,5-10 years,,
+Curitiba,PR,Adaptation,3007,Wetlands Restoration,Protect and restore urban wetlands to enhance climate resilience,,,,,High,>10 years,Flood,High
+Curitiba,PR,Mitigation,2010,Sustainable Buildings,Promote the construction of low-energy buildings,Stationary Energy,40-59%,none,none,High,>10 years,,
+Curitiba,PR,Adaptation,3008,Early Warning Systems,Develop alert systems for extreme climate events,,,,,Medium,5-10 years,Drought,Medium
+Curitiba,PR,Mitigation,2011,Urban Agriculture,Encourage urban agriculture to reduce food transportation needs,AFOLU,none,0-19%,none,Low,5-10 years,,
+Curitiba,PR,Adaptation,3009,Climate Shelters,Establish shelters in vulnerable areas to protect residents during extreme events,,,,,Medium,5-10 years,Heatwave,Medium
+Rio de Janeiro,RJ,Mitigation,2012,Residential Solar Energy,Promote solar panels in households to reduce emissions,Stationary Energy,20-39%,none,none,Medium,5-10 years,,
+Rio de Janeiro,RJ,Adaptation,3010,Mangrove Protection,Restore and protect coastal mangroves to combat erosion,,,,,High,5-10 years,Sea-level rise,High
+Rio de Janeiro,RJ,Mitigation,2013,Non-Motorized Transport,Encourage bicycle use through infrastructure development,Transport,none,20-39%,none,Medium,5-10 years,,
+Rio de Janeiro,RJ,Adaptation,3011,Water Desalination,Implement desalination technology to tackle water scarcity,,,,,High,>10 years,Drought,High
+Rio de Janeiro,RJ,Mitigation,2014,Industrial Energy Efficiency,Enhance energy efficiency in industrial plants,Stationary Energy,20-39%,none,none,Medium,5-10 years,,
+Rio de Janeiro,RJ,Adaptation,3012,Green Roofs,Promote green roofs to reduce heat and improve insulation,,,,,Low,<5 years,Heatwave,Low
+Rio de Janeiro,RJ,Mitigation,2015,Sustainable Public Transport,Integrate electric vehicles into the public transport system,Transport,40-59%,40-59%,none,High,>10 years,,
