@@ -1,0 +1,102 @@
+[
+  {
+    "locode": "BRCCI",
+    "name": "Camaçari",
+    "region": "BR-BA",
+    "regionName": "Bahia",
+    "actionId": "18",
+    "actionName": "Heatwave Early Warning Systems",
+    "actionPriority": 95,
+    "explanation": "Camaçari has an extremely high normalized risk score of 0.99 for heatwaves affecting public health and energy security. Implementing heatwave early warning systems is critical to protect residents, especially vulnerable populations, and to ensure timely responses during extreme heat events."
+  },
+  {
+    "locode": "BRCCI",
+    "name": "Camaçari",
+    "region": "BR-BA",
+    "regionName": "Bahia",
+    "actionId": "6",
+    "actionName": "Flood Defense Infrastructure",
+    "actionPriority": 90,
+    "explanation": "With a very high risk score of 0.99 for flooding impacting geo-hydrological disasters and food security, investing in flood defense infrastructure is essential to mitigate flood risks and protect the city's population and economy."
+  },
+  {
+    "locode": "BRCCI",
+    "name": "Camaçari",
+    "region": "BR-BA",
+    "regionName": "Bahia",
+    "actionId": "14",
+    "actionName": "Air Quality Monitoring and Improvement",
+    "actionPriority": 85,
+    "explanation": "The high risk of diseases (normalized risk score of 0.99) affecting public health indicates a need for air quality improvements. Implementing air quality monitoring can help identify pollutants and enforce regulations to enhance public health."
+  },
+  {
+    "locode": "BRCCI",
+    "name": "Camaçari",
+    "region": "BR-BA",
+    "regionName": "Bahia",
+    "actionId": "5",
+    "actionName": "Green Roof Initiatives",
+    "actionPriority": 80,
+    "explanation": "Green roofs can mitigate heatwaves and flooding, both of which have high risk scores in Camaçari. Promoting green roof installations can reduce urban temperatures and manage stormwater runoff."
+  },
+  {
+    "locode": "BRCCI",
+    "name": "Camaçari",
+    "region": "BR-BA",
+    "regionName": "Bahia",
+    "actionId": "2",
+    "actionName": "Rainwater Harvesting Systems",
+    "actionPriority": 75,
+    "explanation": "Considering moderate risk scores for drought affecting water resources (0.28) and energy security (0.387), implementing rainwater harvesting systems can enhance water availability and resilience against drought conditions."
+  },
+  {
+    "locode": "BRCCI",
+    "name": "Camaçari",
+    "region": "BR-BA",
+    "regionName": "Bahia",
+    "actionId": "13",
+    "actionName": "Drought-Resistant Crop Introduction",
+    "actionPriority": 70,
+    "explanation": "With a risk score of 0.633 for drought affecting food security, introducing drought-resistant crops can help sustain agricultural productivity and ensure food security during dry periods."
+  },
+  {
+    "locode": "BRCCI",
+    "name": "Camaçari",
+    "region": "BR-BA",
+    "regionName": "Bahia",
+    "actionId": "17",
+    "actionName": "Soil Conservation Practices",
+    "actionPriority": 65,
+    "explanation": "Implementing soil conservation can reduce the impact of droughts and floods on agriculture, enhancing resilience against risks identified in food security and geo-hydrological disasters."
+  },
+  {
+    "locode": "BRCCI",
+    "name": "Camaçari",
+    "region": "BR-BA",
+    "regionName": "Bahia",
+    "actionId": "1",
+    "actionName": "Bicycle Infrastructure Development",
+    "actionPriority": 60,
+    "explanation": "While not directly addressing high-risk hazards, improving bicycle infrastructure can reduce transportation emissions and improve public health, contributing to overall climate mitigation efforts."
+  },
+  {
+    "locode": "BRCCI",
+    "name": "Camaçari",
+    "region": "BR-BA",
+    "regionName": "Bahia",
+    "actionId": "20",
+    "actionName": "Urban Agriculture Programs",
+    "actionPriority": 55,
+    "explanation": "Promoting urban agriculture can enhance food security, which is at risk due to flooding and drought, by reducing dependency on external food sources."
+  },
+  {
+    "locode": "BRCCI",
+    "name": "Camaçari",
+    "region": "BR-BA",
+    "regionName": "Bahia",
+    "actionId": "3",
+    "actionName": "Energy Efficiency Retrofits for Buildings",
+    "actionPriority": 50,
+    "explanation": "Improving energy efficiency can alleviate energy security risks during heatwaves and droughts by reducing overall energy demand."
+  }
+]
