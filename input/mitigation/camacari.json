@@ -1,202 +1,202 @@
 [
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0053",
-        "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
-        "actionPriority": 1,
-        "explanation": "This action is highly cost-effective, offers significant emissions reduction by targeting land use emissions, aligns with the savanna biome, and has a relatively short implementation timeline. It also addresses risks related to drought and flooding by enhancing water retention and biodiversity."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0052",
-        "actionName": "Reduce Deforestation and Degradation",
-        "actionPriority": 2,
-        "explanation": "Directly targets the largest emission sector (land use) in Corumb\u00e1, offering substantial GHG reduction. It is cost-effective, aligns with the local environment, and reduces risks associated with drought and flooding."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0059",
-        "actionName": "Reduce Conversion of Coastal Wetlands",
-        "actionPriority": 3,
-        "explanation": "This action provides significant emissions reduction and risk mitigation benefits, particularly for flooding and biodiversity. It is cost-effective and aligns with the city's environmental context."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0054",
-        "actionName": "Improved Forest Management",
-        "actionPriority": 4,
-        "explanation": "Enhances carbon sequestration and reduces emissions from land use. It is cost-effective, aligns with the savanna biome, and supports biodiversity, addressing drought and flooding risks."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0077",
-        "actionName": "Urban Tree Planting and Management",
-        "actionPriority": 5,
-        "explanation": "Offers emissions reduction, urban cooling, and risk mitigation for heatwaves. It is cost-effective, aligns with the city's environment, and has a short implementation timeline."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "c40_0028",
-        "actionName": "Zero Emission Buses",
-        "actionPriority": 6,
-        "explanation": "Targets transportation emissions, which are significant in Corumb\u00e1. It is cost-effective, reduces air pollution, and aligns with the city's capacity for implementation."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0002",
-        "actionName": "Active Transport Modes",
-        "actionPriority": 7,
-        "explanation": "Promotes emissions reduction in the transportation sector, is cost-effective, and encourages healthier lifestyles. It has a short implementation timeline and aligns with the city's socio-demographic context."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0045",
-        "actionName": "Behavioral Changes for Reduced Waste (e.g., Food)",
-        "actionPriority": 8,
-        "explanation": "Targets waste emissions, is highly cost-effective, and has a short implementation timeline. It aligns with the city's socio-economic context and reduces landfill use."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
         "actionId": "c40_0038",
         "actionName": "Sanitary Landfills",
-        "actionPriority": 9,
-        "explanation": "Addresses waste emissions, is cost-effective, and aligns with the city's capacity. It reduces environmental and health risks associated with waste management."
+        "actionPriority": 1,
+        "explanation": "Sanitary Landfills rank highest due to their significant impact on reducing waste emissions, which is the largest emission sector in Cama\u00e7ari. The action is cost-effective, aligns with the city's waste management needs, and has a relatively straightforward implementation process with fewer dependencies."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0062",
-        "actionName": "Biochar",
-        "actionPriority": 10,
-        "explanation": "Offers emissions reduction through carbon sequestration, is cost-effective, and aligns with the local environment. It supports soil health and reduces drought risk."
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "c40_0028",
+        "actionName": "Zero Emission Buses",
+        "actionPriority": 2,
+        "explanation": "Zero Emission Buses are prioritized for their potential to significantly reduce transportation emissions, the second-largest emission sector. This action is cost-effective in the long term, aligns with the city's transportation needs, and offers socio-demographic benefits by improving public transport."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0067",
-        "actionName": "Manure management",
-        "actionPriority": 11,
-        "explanation": "Targets emissions from agriculture, is cost-effective, and aligns with the city's capacity. It reduces environmental risks and supports sustainable agriculture."
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "c40_0035",
+        "actionName": "Waste Efficiency",
+        "actionPriority": 3,
+        "explanation": "Waste Efficiency is crucial for reducing emissions in the waste sector. It is cost-effective, has a quick implementation timeline, and aligns with the city's environmental goals. It also reduces risks associated with waste management."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0057",
-        "actionName": "Reduce Degradation and Conversion of Peatlands Activities, Co-benefits, Risks and Implementation Barriers",
-        "actionPriority": 12,
-        "explanation": "Provides significant emissions reduction and risk mitigation benefits, particularly for flooding and biodiversity. It is cost-effective and aligns with the city's environmental context."
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "c40_0036",
+        "actionName": "Landfill Management",
+        "actionPriority": 4,
+        "explanation": "Landfill Management is essential for controlling emissions from waste. It is cost-effective, reduces environmental risks, and aligns with the city's waste management strategy. It also has a relatively short implementation timeline."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0058",
-        "actionName": "Peatland Restoration",
-        "actionPriority": 13,
-        "explanation": "Enhances carbon sequestration and reduces emissions from land use. It is cost-effective, aligns with the savanna biome, and supports biodiversity, addressing drought and flooding risks."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0068",
-        "actionName": "Bioenergy and BECCS(Bioenergy with Carbon Capture and Storage)",
-        "actionPriority": 14,
-        "explanation": "Offers emissions reduction through carbon capture, is cost-effective, and aligns with the city's capacity. It supports energy security and reduces environmental risks."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0069",
-        "actionName": "Shift to sustainable healthy diets",
-        "actionPriority": 15,
-        "explanation": "Promotes emissions reduction in the agriculture sector, is cost-effective, and encourages healthier lifestyles. It aligns with the city's socio-demographic context."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0071",
-        "actionName": "Improved and enhanced use of wood products",
-        "actionPriority": 16,
-        "explanation": "Supports emissions reduction through sustainable forestry, is cost-effective, and aligns with the local environment. It supports biodiversity and reduces environmental risks."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
         "actionId": "ipcc_0033",
         "actionName": "Electrification of Processes",
-        "actionPriority": 17,
-        "explanation": "Targets industrial emissions, is cost-effective, and aligns with the city's capacity. It supports energy security and reduces environmental risks."
+        "actionPriority": 5,
+        "explanation": "Electrification of Processes targets industrial emissions, a significant sector in Cama\u00e7ari. It offers substantial emissions reduction potential and aligns with the city's industrial profile. The action is feasible given the city's capacity."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "ipcc_0045",
+        "actionName": "Behavioral Changes for Reduced Waste (e.g., Food)",
+        "actionPriority": 6,
+        "explanation": "Behavioral Changes for Reduced Waste are cost-effective and have a high potential for emissions reduction in the waste sector. This action is suitable for the city's socio-demographic context and can be implemented quickly."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
         "actionId": "ipcc_0026",
         "actionName": "Heat Recovery and Reuse through Heat Exchanger Networks or Heat Pumps",
-        "actionPriority": 18,
-        "explanation": "Offers emissions reduction in the industrial sector, is cost-effective, and aligns with the city's capacity. It supports energy efficiency and reduces environmental risks."
+        "actionPriority": 7,
+        "explanation": "Heat Recovery and Reuse is prioritized for its potential to reduce industrial emissions. It is cost-effective, aligns with the city's industrial processes, and reduces energy-related risks."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
         "actionId": "ipcc_0027",
         "actionName": "Process Coupling and Improvements",
-        "actionPriority": 19,
-        "explanation": "Targets industrial emissions, is cost-effective, and aligns with the city's capacity. It supports energy efficiency and reduces environmental risks."
+        "actionPriority": 8,
+        "explanation": "Process Coupling and Improvements offer significant emissions reduction in industrial processes. This action is cost-effective, aligns with the city's industrial sector, and can be implemented with existing infrastructure."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
         "actionId": "ipcc_0032",
         "actionName": "Fuel Switching to Renewable Fuels",
+        "actionPriority": 9,
+        "explanation": "Fuel Switching to Renewable Fuels targets industrial emissions and offers substantial reduction potential. It is cost-effective and aligns with the city's energy transition goals."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "ipcc_0034",
+        "actionName": "Energy Recycling in Furnaces and Kilns",
+        "actionPriority": 10,
+        "explanation": "Energy Recycling in Furnaces and Kilns is prioritized for its emissions reduction potential in industrial processes. It is cost-effective and aligns with the city's industrial energy efficiency goals."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "ipcc_0042",
+        "actionName": "Design for Recovery, Reuse, or Repurposing",
+        "actionPriority": 11,
+        "explanation": "Design for Recovery, Reuse, or Repurposing is cost-effective and reduces waste emissions. It aligns with the city's circular economy goals and can be implemented with minimal dependencies."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "ipcc_0044",
+        "actionName": "Alternative feedstocks (e.g. in cement)",
+        "actionPriority": 12,
+        "explanation": "Alternative Feedstocks target industrial emissions and offer significant reduction potential. This action is cost-effective and aligns with the city's industrial sector needs."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "c40_0041",
+        "actionName": "Waste Collection",
+        "actionPriority": 13,
+        "explanation": "Waste Collection is essential for reducing emissions in the waste sector. It is cost-effective, aligns with the city's waste management strategy, and can be implemented quickly."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "ipcc_0035",
+        "actionName": "Technology Improvements of Processes",
+        "actionPriority": 14,
+        "explanation": "Technology Improvements of Processes offer emissions reduction in industrial sectors. This action is cost-effective, aligns with the city's industrial profile, and can be implemented with existing resources."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "ipcc_0043",
+        "actionName": "Circular Economy Policies",
+        "actionPriority": 15,
+        "explanation": "Circular Economy Policies are cost-effective and reduce waste emissions. They align with the city's sustainability goals and can be implemented with minimal dependencies."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "c40_0026",
+        "actionName": "Vehicle Emissions",
+        "actionPriority": 16,
+        "explanation": "Vehicle Emissions reduction is crucial for the transportation sector. This action is cost-effective, aligns with the city's transportation needs, and offers socio-demographic benefits."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "c40_0039",
+        "actionName": "Gas Management",
+        "actionPriority": 17,
+        "explanation": "Gas Management is important for reducing emissions in the waste sector. It is cost-effective, aligns with the city's waste management strategy, and can be implemented with existing infrastructure."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "ipcc_0002",
+        "actionName": "Active Transport Modes",
+        "actionPriority": 18,
+        "explanation": "Active Transport Modes are cost-effective and reduce transportation emissions. They align with the city's transportation goals and offer socio-demographic benefits."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "c40_0023",
+        "actionName": "Bus Emissions",
+        "actionPriority": 19,
+        "explanation": "Bus Emissions reduction is important for the transportation sector. This action is cost-effective, aligns with the city's public transport needs, and can be implemented with existing resources."
+    },
+    {
+        "locode": "BRCCI",
+        "cityName": "Cama\u00e7ari",
+        "region": "BR-BA",
+        "regionName": "Bahia",
+        "actionId": "c40_0025",
+        "actionName": "Truck Emissions",
         "actionPriority": 20,
-        "explanation": "Promotes emissions reduction in the energy sector, is cost-effective, and aligns with the city's capacity. It supports energy security and reduces environmental risks."
+        "explanation": "Truck Emissions reduction is crucial for the transportation sector. This action is cost-effective, aligns with the city's freight transport needs, and can be implemented with existing infrastructure."
     }
 ]

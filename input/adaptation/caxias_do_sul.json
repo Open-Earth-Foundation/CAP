@@ -1,202 +1,202 @@
 [
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
         "actionId": "c40_0053",
         "actionName": "Water Savings",
         "actionPriority": 1,
-        "explanation": "Water savings is cost-effective, addresses drought risk, and aligns with the city's savanna biome. It has a high quantitative score and can be implemented quickly with minimal dependencies."
+        "explanation": "Water Savings is prioritized due to its high cost-effectiveness and significant potential to reduce water-related risks, such as droughts, which are a key impact in Caxias do Sul. It aligns well with the city's environmental needs and can be implemented relatively quickly with fewer dependencies."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
         "actionId": "c40_0054",
         "actionName": "Water Recycling",
         "actionPriority": 2,
-        "explanation": "Water recycling is crucial for reducing water scarcity, a key risk for Corumb\u00e1. It is cost-effective and has a high quantitative score, making it a top priority."
+        "explanation": "Water Recycling ranks high due to its ability to address water scarcity and reduce dependency on freshwater resources. It is cost-effective and aligns with the city's need to manage water resources efficiently, addressing both environmental compatibility and risk reduction."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0095",
-        "actionName": "Disaster early warning",
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "c40_0060",
+        "actionName": "Managed Retreat",
         "actionPriority": 3,
-        "explanation": "Early warning systems are vital for reducing risks from geo-hydrological disasters like landslides and flooding. They are cost-effective and can be implemented quickly."
+        "explanation": "Managed Retreat is crucial for reducing risks associated with geo-hydrological disasters like landslides and flooding, which have high risk scores. Although it may have higher costs, its long-term benefits in risk reduction justify its prioritization."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
         "actionId": "c40_0067",
         "actionName": "Air Quality",
         "actionPriority": 4,
-        "explanation": "Improving air quality addresses public health risks and can be implemented with existing infrastructure, making it cost-effective and timely."
+        "explanation": "Improving Air Quality is essential for public health, addressing risks related to diseases and heatwaves. It is cost-effective and can be implemented with moderate dependencies, providing significant socio-demographic benefits."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0090",
-        "actionName": "Insurance",
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0095",
+        "actionName": "Disaster early warning",
         "actionPriority": 5,
-        "explanation": "Insurance provides a safety net against climate-related risks, supporting socio-economic stability. It is cost-effective and aligns with the city's socio-demographic context."
+        "explanation": "Disaster Early Warning systems are critical for reducing the impact of geo-hydrological disasters. They are cost-effective, have a short implementation timeline, and significantly reduce risks, making them a high priority."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0091",
-        "actionName": "Diversification of livelihoods",
-        "actionPriority": 6,
-        "explanation": "Diversifying livelihoods enhances resilience against climate impacts, particularly in a region prone to drought and flooding. It is socio-economically suitable for Corumb\u00e1."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "c40_0060",
-        "actionName": "Managed Retreat",
-        "actionPriority": 7,
-        "explanation": "Managed retreat is essential for areas at high risk of flooding and landslides. It is a strategic long-term action with significant risk reduction benefits."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0087",
-        "actionName": "Infrastructure retrofitting",
-        "actionPriority": 8,
-        "explanation": "Retrofitting infrastructure enhances resilience to climate impacts, particularly flooding and heatwaves. It is cost-effective and aligns with the city's capacity."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
         "actionId": "c40_0063",
         "actionName": "Local Food Support",
+        "actionPriority": 6,
+        "explanation": "Local Food Support addresses food security risks, particularly during droughts and flooding. It is cost-effective, aligns with socio-demographic needs, and can be implemented quickly, providing broad public benefits."
+    },
+    {
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0090",
+        "actionName": "Insurance",
+        "actionPriority": 7,
+        "explanation": "Insurance provides financial resilience against climate-related risks, such as flooding and landslides. It is cost-effective and can be implemented with minimal dependencies, offering significant socio-economic benefits."
+    },
+    {
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0091",
+        "actionName": "Diversification of livelihoods",
+        "actionPriority": 8,
+        "explanation": "Diversification of Livelihoods enhances socio-economic resilience, particularly for vulnerable populations. It is cost-effective and aligns with the city's socio-demographic characteristics, providing long-term benefits."
+    },
+    {
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0087",
+        "actionName": "Infrastructure retrofitting",
         "actionPriority": 9,
-        "explanation": "Supporting local food systems addresses food security risks from drought and flooding, aligning with the city's socio-economic context."
+        "explanation": "Infrastructure Retrofitting is essential for reducing risks from geo-hydrological disasters. While it may have higher costs, its potential to significantly reduce risks and align with sector relevance justifies its prioritization."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0081",
-        "actionName": "Coastal Accommodation",
-        "actionPriority": 10,
-        "explanation": "Coastal accommodation strategies are crucial for managing sea-level rise and flooding risks, aligning with the city's geographical context."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0101",
-        "actionName": "Efficient water supply/distribution",
-        "actionPriority": 11,
-        "explanation": "Improving water supply efficiency addresses water scarcity and is cost-effective, with a high quantitative score."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0099",
-        "actionName": "Water capture/storage",
-        "actionPriority": 12,
-        "explanation": "Water capture and storage are vital for managing drought risk, aligning with the city's environmental and socio-economic context."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0104",
-        "actionName": "Permanent migration",
-        "actionPriority": 13,
-        "explanation": "Permanent migration is a strategic response to severe climate impacts, though it requires careful planning and resources."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "c40_0046",
-        "actionName": "Coastal Protection",
-        "actionPriority": 14,
-        "explanation": "Coastal protection measures are essential for mitigating flooding risks, though they may require significant resources and planning."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
         "actionId": "c40_0059",
         "actionName": "Early Warning",
-        "actionPriority": 15,
-        "explanation": "Early warning systems are crucial for reducing risks from natural disasters, though they may have dependencies on existing infrastructure."
+        "actionPriority": 10,
+        "explanation": "Early Warning systems are crucial for timely responses to climate hazards. They are cost-effective, have a short implementation timeline, and significantly reduce risks, making them a high priority."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0088",
-        "actionName": "Building codes",
-        "actionPriority": 16,
-        "explanation": "Updating building codes enhances resilience to climate impacts, though implementation may be complex and resource-intensive."
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "c40_0056",
+        "actionName": "Watershed Preservation",
+        "actionPriority": 11,
+        "explanation": "Watershed Preservation is vital for maintaining water resources and reducing drought risks. It aligns with environmental compatibility and can be implemented with moderate costs and dependencies."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0092",
-        "actionName": "Social safety nets",
-        "actionPriority": 17,
-        "explanation": "Social safety nets provide support during climate-related disruptions, though they may require significant policy changes."
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "c40_0057",
+        "actionName": "Food Redistribution",
+        "actionPriority": 12,
+        "explanation": "Food Redistribution addresses food security, particularly during climate-induced disruptions. It is cost-effective, aligns with socio-demographic needs, and can be implemented quickly, providing broad public benefits."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0093",
-        "actionName": "Availability of health infrastructure",
-        "actionPriority": 18,
-        "explanation": "Enhancing health infrastructure addresses public health risks, though it may require substantial investment and planning."
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "c40_0061",
+        "actionName": "Non-Potable Water",
+        "actionPriority": 13,
+        "explanation": "Non-Potable Water use reduces pressure on freshwater resources, addressing water scarcity. It is cost-effective and aligns with environmental needs, providing significant benefits with moderate dependencies."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0102",
-        "actionName": "Seasonal/temporary mobility",
-        "actionPriority": 19,
-        "explanation": "Seasonal mobility can be a flexible response to climate impacts, though it may have socio-economic implications."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
         "actionId": "c40_0050",
         "actionName": "White Roofs",
+        "actionPriority": 14,
+        "explanation": "White Roofs help mitigate heatwaves, improving energy efficiency and public health. They are cost-effective and can be implemented with minimal dependencies, providing quick benefits."
+    },
+    {
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "c40_0051",
+        "actionName": "Public Shading",
+        "actionPriority": 15,
+        "explanation": "Public Shading reduces heatwave impacts, improving public health and comfort. It is cost-effective, aligns with socio-demographic needs, and can be implemented quickly with minimal dependencies."
+    },
+    {
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "c40_0064",
+        "actionName": "Market Access",
+        "actionPriority": 16,
+        "explanation": "Market Access supports economic resilience and food security. It is cost-effective, aligns with socio-demographic needs, and can be implemented with moderate dependencies, providing long-term benefits."
+    },
+    {
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "c40_0065",
+        "actionName": "Food Access Laws",
+        "actionPriority": 17,
+        "explanation": "Food Access Laws ensure equitable food distribution, addressing socio-demographic needs. They are cost-effective and can be implemented with minimal dependencies, providing significant public benefits."
+    },
+    {
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0104",
+        "actionName": "Permanent migration",
+        "actionPriority": 18,
+        "explanation": "Permanent Migration addresses long-term risks from climate hazards. While it may have higher costs and dependencies, its potential to significantly reduce risks justifies its prioritization."
+    },
+    {
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "c40_0046",
+        "actionName": "Coastal Protection",
+        "actionPriority": 19,
+        "explanation": "Coastal Protection reduces risks from geo-hydrological disasters. It may have higher costs, but its alignment with environmental needs and risk reduction potential justifies its prioritization."
+    },
+    {
+        "locode": "BRCXL",
+        "cityName": "Caxias do Sul",
+        "region": "BR-RS",
+        "regionName": "Rio Grande do Sul",
+        "actionId": "ipcc_0081",
+        "actionName": "Coastal Accommodation",
         "actionPriority": 20,
-        "explanation": "White roofs can reduce urban heat, though their impact may be limited compared to other actions."
+        "explanation": "Coastal Accommodation addresses risks from geo-hydrological disasters. While it may have higher costs and dependencies, its potential to significantly reduce risks justifies its prioritization."
     }
 ]

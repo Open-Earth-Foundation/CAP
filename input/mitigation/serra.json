@@ -1,202 +1,202 @@
 [
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0053",
-        "actionName": "Afforestation, Reforestation and Forest Ecosystem Restoration",
-        "actionPriority": 1,
-        "explanation": "This action is highly cost-effective, offers significant emissions reduction by targeting land use emissions, aligns with the savanna biome, and has a relatively short implementation timeline. It also addresses risks related to drought and flooding by enhancing water retention and biodiversity."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0052",
-        "actionName": "Reduce Deforestation and Degradation",
-        "actionPriority": 2,
-        "explanation": "Directly targets the largest emission sector (land use) in Corumb\u00e1, offering substantial GHG reduction. It is cost-effective, aligns with the local environment, and reduces risks associated with drought and flooding."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0059",
-        "actionName": "Reduce Conversion of Coastal Wetlands",
-        "actionPriority": 3,
-        "explanation": "This action provides significant emissions reduction and risk mitigation benefits, particularly for flooding and biodiversity. It is cost-effective and aligns with the city's environmental context."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0054",
-        "actionName": "Improved Forest Management",
-        "actionPriority": 4,
-        "explanation": "Enhances carbon sequestration and reduces emissions from land use. It is cost-effective, aligns with the savanna biome, and supports biodiversity, addressing drought and flooding risks."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0077",
-        "actionName": "Urban Tree Planting and Management",
-        "actionPriority": 5,
-        "explanation": "Offers emissions reduction, urban cooling, and risk mitigation for heatwaves. It is cost-effective, aligns with the city's environment, and has a short implementation timeline."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "c40_0028",
-        "actionName": "Zero Emission Buses",
-        "actionPriority": 6,
-        "explanation": "Targets transportation emissions, which are significant in Corumb\u00e1. It is cost-effective, reduces air pollution, and aligns with the city's capacity for implementation."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0002",
-        "actionName": "Active Transport Modes",
-        "actionPriority": 7,
-        "explanation": "Promotes emissions reduction in the transportation sector, is cost-effective, and encourages healthier lifestyles. It has a short implementation timeline and aligns with the city's socio-demographic context."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0045",
-        "actionName": "Behavioral Changes for Reduced Waste (e.g., Food)",
-        "actionPriority": 8,
-        "explanation": "Targets waste emissions, is highly cost-effective, and has a short implementation timeline. It aligns with the city's socio-economic context and reduces landfill use."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
         "actionId": "c40_0038",
         "actionName": "Sanitary Landfills",
-        "actionPriority": 9,
-        "explanation": "Addresses waste emissions, is cost-effective, and aligns with the city's capacity. It reduces environmental and health risks associated with waste management."
+        "actionPriority": 1,
+        "explanation": "This action ranks highest due to its significant impact on waste emissions, which is a major sector in Serra's emissions profile. It is cost-effective, aligns with the city's waste management needs, and can be implemented relatively quickly with existing infrastructure."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0062",
-        "actionName": "Biochar",
-        "actionPriority": 10,
-        "explanation": "Offers emissions reduction through carbon sequestration, is cost-effective, and aligns with the local environment. It supports soil health and reduces drought risk."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0067",
-        "actionName": "Manure management",
-        "actionPriority": 11,
-        "explanation": "Targets emissions from agriculture, is cost-effective, and aligns with the city's capacity. It reduces environmental risks and supports sustainable agriculture."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0057",
-        "actionName": "Reduce Degradation and Conversion of Peatlands Activities, Co-benefits, Risks and Implementation Barriers",
-        "actionPriority": 12,
-        "explanation": "Provides significant emissions reduction and risk mitigation benefits, particularly for flooding and biodiversity. It is cost-effective and aligns with the city's environmental context."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0058",
-        "actionName": "Peatland Restoration",
-        "actionPriority": 13,
-        "explanation": "Enhances carbon sequestration and reduces emissions from land use. It is cost-effective, aligns with the savanna biome, and supports biodiversity, addressing drought and flooding risks."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0068",
-        "actionName": "Bioenergy and BECCS(Bioenergy with Carbon Capture and Storage)",
-        "actionPriority": 14,
-        "explanation": "Offers emissions reduction through carbon capture, is cost-effective, and aligns with the city's capacity. It supports energy security and reduces environmental risks."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0069",
-        "actionName": "Shift to sustainable healthy diets",
-        "actionPriority": 15,
-        "explanation": "Promotes emissions reduction in the agriculture sector, is cost-effective, and encourages healthier lifestyles. It aligns with the city's socio-demographic context."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
-        "actionId": "ipcc_0071",
-        "actionName": "Improved and enhanced use of wood products",
-        "actionPriority": 16,
-        "explanation": "Supports emissions reduction through sustainable forestry, is cost-effective, and aligns with the local environment. It supports biodiversity and reduces environmental risks."
-    },
-    {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
         "actionId": "ipcc_0033",
         "actionName": "Electrification of Processes",
-        "actionPriority": 17,
-        "explanation": "Targets industrial emissions, is cost-effective, and aligns with the city's capacity. It supports energy security and reduces environmental risks."
+        "actionPriority": 2,
+        "explanation": "Electrification of processes targets the industrial sector, which is the largest emissions contributor in Serra. It offers substantial emissions reduction potential and aligns with the city's capacity for industrial improvements."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "c40_0028",
+        "actionName": "Zero Emission Buses",
+        "actionPriority": 3,
+        "explanation": "This action addresses transportation emissions, the second largest sector. It provides direct emissions reductions and benefits public health by reducing air pollution, with moderate implementation costs."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0045",
+        "actionName": "Behavioral Changes for Reduced Waste (e.g., Food)",
+        "actionPriority": 4,
+        "explanation": "Promoting behavioral changes is cost-effective and can lead to significant waste reduction. It aligns with socio-demographic suitability by engaging the community and has a quick implementation timeline."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
         "actionId": "ipcc_0026",
         "actionName": "Heat Recovery and Reuse through Heat Exchanger Networks or Heat Pumps",
-        "actionPriority": 18,
-        "explanation": "Offers emissions reduction in the industrial sector, is cost-effective, and aligns with the city's capacity. It supports energy efficiency and reduces environmental risks."
+        "actionPriority": 5,
+        "explanation": "This action targets energy efficiency in industrial processes, offering substantial emissions reductions. It is compatible with Serra's industrial profile and can be implemented with existing technologies."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
         "actionId": "ipcc_0027",
         "actionName": "Process Coupling and Improvements",
-        "actionPriority": 19,
-        "explanation": "Targets industrial emissions, is cost-effective, and aligns with the city's capacity. It supports energy efficiency and reduces environmental risks."
+        "actionPriority": 6,
+        "explanation": "Process improvements in industrial sectors can lead to significant emissions reductions. This action is cost-effective and aligns with the city's industrial emissions profile."
     },
     {
-        "locode": "BRCMG",
-        "cityName": "Corumb\u00e1",
-        "region": "BR-MS",
-        "regionName": "Mato Grosso do Sul",
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
         "actionId": "ipcc_0032",
         "actionName": "Fuel Switching to Renewable Fuels",
+        "actionPriority": 7,
+        "explanation": "Switching to renewable fuels in industrial processes offers high emissions reduction potential. It is relevant to Serra's industrial sector and supports the transition to sustainable energy sources."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0034",
+        "actionName": "Energy Recycling in Furnaces and Kilns",
+        "actionPriority": 8,
+        "explanation": "Energy recycling in industrial processes can significantly reduce emissions. This action is cost-effective and aligns with Serra's industrial emissions profile."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0042",
+        "actionName": "Design for Recovery, Reuse, or Repurposing",
+        "actionPriority": 9,
+        "explanation": "This action supports circular economy principles, reducing waste and emissions. It is cost-effective and aligns with the city's waste management goals."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0044",
+        "actionName": "Alternative feedstocks (e.g. in cement)",
+        "actionPriority": 10,
+        "explanation": "Using alternative feedstocks in industrial processes can reduce emissions significantly. This action is relevant to Serra's industrial sector and supports sustainable material use."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0035",
+        "actionName": "Technology Improvements of Processes",
+        "actionPriority": 11,
+        "explanation": "Improving industrial technologies can lead to emissions reductions. This action is cost-effective and aligns with Serra's industrial emissions profile."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0043",
+        "actionName": "Circular Economy Policies",
+        "actionPriority": 12,
+        "explanation": "Implementing circular economy policies can reduce waste and emissions. This action is cost-effective and aligns with the city's waste management goals."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "c40_0035",
+        "actionName": "Waste Efficiency",
+        "actionPriority": 13,
+        "explanation": "Improving waste efficiency can significantly reduce emissions from the waste sector. This action is cost-effective and aligns with Serra's waste management needs."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "c40_0036",
+        "actionName": "Landfill Management",
+        "actionPriority": 14,
+        "explanation": "Effective landfill management can reduce emissions from waste. This action is cost-effective and aligns with the city's waste management goals."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0028",
+        "actionName": "Introduction of Energy Efficiency Technologies in Processing",
+        "actionPriority": 15,
+        "explanation": "Introducing energy efficiency technologies in industrial processes can reduce emissions. This action is cost-effective and aligns with Serra's industrial emissions profile."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0031",
+        "actionName": "Smart Energy Management",
+        "actionPriority": 16,
+        "explanation": "Smart energy management can optimize energy use and reduce emissions. This action is cost-effective and aligns with Serra's energy management goals."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0036",
+        "actionName": "On-site Combined Heat and Power (CHP)",
+        "actionPriority": 17,
+        "explanation": "On-site CHP can improve energy efficiency and reduce emissions. This action is relevant to Serra's industrial sector and supports sustainable energy use."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0038",
+        "actionName": "Carbon Capture and Utilization (CCU)",
+        "actionPriority": 18,
+        "explanation": "CCU offers potential emissions reductions in industrial processes. This action is relevant to Serra's industrial sector but may have higher costs and dependencies."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0023",
+        "actionName": "Improved Heat and Energy Recovery",
+        "actionPriority": 19,
+        "explanation": "Improving heat and energy recovery can reduce emissions in industrial processes. This action is cost-effective and aligns with Serra's industrial emissions profile."
+    },
+    {
+        "locode": "BRSER",
+        "cityName": "Serra",
+        "region": "BR-ES",
+        "regionName": "Esp\u00edrito Santo",
+        "actionId": "ipcc_0024",
+        "actionName": "Improved Fuel Delivery for Heating",
         "actionPriority": 20,
-        "explanation": "Promotes emissions reduction in the energy sector, is cost-effective, and aligns with the city's capacity. It supports energy security and reduces environmental risks."
+        "explanation": "Improving fuel delivery for heating can reduce emissions. This action is cost-effective but has a lower impact compared to other industrial process improvements."
     }
 ]
