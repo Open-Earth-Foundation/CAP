@@ -49,7 +49,7 @@ const tuples = [{city: 'BRSER', pathName: type.ADAPTATION}, {city: 'BRSER', path
     {city: 'BRCCI', pathName: type.ADAPTATION}, {city: 'BRCCI', pathName: type.MITIGATION},
     {city: 'BRCXL', pathName: type.ADAPTATION}, {city: 'BRCXL', pathName: type.MITIGATION},
     {city: 'BRCMG', pathName: type.ADAPTATION}, {city: 'BRCMG', pathName: type.MITIGATION},
-    {city: 'BRCCI', pathName: type.ADAPTATION}, {city: 'BRCCI', pathName: type.MITIGATION}
+    {city: 'BRRBR', pathName: type.ADAPTATION}, {city: 'BRRBR', pathName: type.MITIGATION}
 ]
 
 tuples.forEach(({city, pathName}) => {
