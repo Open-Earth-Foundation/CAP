@@ -6,19 +6,6 @@ const type = {
     MITIGATION: 'mitigation'
 }
 
-// Function to convert city name to snake_case and replace non-English characters
-const toSnakeCase = (str) => {
-    if (!str) {
-        return '';
-    }
-    return str
-        .normalize('NFD') // Normalize the string
-        .replace(/[\u0300-\u036f]/g, '') // Remove diacritics
-        .toLowerCase()
-        .replace(/[^a-z\s]/g, '') // Remove non-English characters
-        .replace(/\s+/g, '_'); // Replace spaces with underscores
-};
-
 function processCity(city, pathName) {
 // Read the JSON files
     const priorityList = JSON.parse(fs.readFileSync(`./input/${pathName}/${city}.json`, 'utf8'));
@@ -44,9 +31,6 @@ function processCity(city, pathName) {
         };
     });
 
-    // Get the city name from the first entry in the priority list
-    const cityName = toSnakeCase(priorityList[0].cityName);
-
     // Create the output directory if it doesn't exist
     const outputDir = `./output/${pathName}`;
     if (!fs.existsSync(outputDir)) {
@@ -54,17 +38,18 @@ function processCity(city, pathName) {
         console.log(`Created directory: ${outputDir}`);
     }
 
-    // Write the enriched data to a file named <cityName>.json
-    const filePath = path.join(outputDir, `${cityName}.json`);
+    // Write the enriched data to a file named <cityLocode>.json
+    const filePath = path.join(outputDir, `${city}.json`);
     fs.writeFileSync(filePath, JSON.stringify(enrichedPriorityList, null, 4));
     console.log(`File written: ${filePath}`);
 }
 
-const tuples = [{city: 'serra', pathName: type.ADAPTATION}, {city: 'serra', pathName: type.MITIGATION},
-    {city: 'camacari', pathName: type.ADAPTATION}, {city: 'camacari', pathName: type.MITIGATION},
-    {city: 'caxias_do_sul', pathName: type.ADAPTATION}, {city: 'caxias_do_sul', pathName: type.MITIGATION},
-    {city: 'corumba', pathName: type.ADAPTATION}, {city: 'corumba', pathName: type.MITIGATION},
-    {city: 'rio_branco', pathName: type.ADAPTATION}, {city: 'rio_branco', pathName: type.MITIGATION}
+
+const tuples = [{city: 'BRSER', pathName: type.ADAPTATION}, {city: 'BRSER', pathName: type.MITIGATION},
+    {city: 'BRCCI', pathName: type.ADAPTATION}, {city: 'BRCCI', pathName: type.MITIGATION},
+    {city: 'BRCXL', pathName: type.ADAPTATION}, {city: 'BRCXL', pathName: type.MITIGATION},
+    {city: 'BRCMG', pathName: type.ADAPTATION}, {city: 'BRCMG', pathName: type.MITIGATION},
+    {city: 'BRCCI', pathName: type.ADAPTATION}, {city: 'BRCCI', pathName: type.MITIGATION}
 ]
 
 tuples.forEach(({city, pathName}) => {
